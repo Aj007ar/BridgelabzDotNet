@@ -9,28 +9,28 @@ namespace ClassObjectMethod
   
     internal class CalculatorMethod
     {
-        int num1 = 10;
-        int num2 = 10;
+        int num1 = 40;
+        int num2 = 20;
 
         public void Addition()
         {
             int result = num1 + num2;
-            Console.WriteLine(result);
+            Console.WriteLine("Addition is: "+result);
         }
         public void substraction()
         {
             int result = num1 - num2;
-            Console.WriteLine(result);
+            Console.WriteLine("Substraction is: "+result);
         }
         public void multiplication()
         {
             int result = num1 * num2;
-            Console.WriteLine(result);
+            Console.WriteLine("Multiplication is: "+result);
         }
         public void division()
         {
             int result = num1 / num2;
-            Console.WriteLine(result);
+            Console.WriteLine("Division is: "+result);
         }
     }
 }

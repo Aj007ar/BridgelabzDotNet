@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\ClassObjectMethod\\ClassObjectMethod.csproj",
+      "projectUniqueName": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\BridgelabzDotNet\\ClassObjectMethod\\ClassObjectMethod.csproj",
       "projectName": "ClassObjectMethod",
-      "projectPath": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\ClassObjectMethod\\ClassObjectMethod.csproj",
+      "projectPath": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\BridgelabzDotNet\\ClassObjectMethod\\ClassObjectMethod.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\ClassObjectMethod\\obj\\",
+      "outputPath": "D:\\BL\\LinuxBatch-560\\LFP-183-DotNet\\BridgelabzDotNet\\ClassObjectMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

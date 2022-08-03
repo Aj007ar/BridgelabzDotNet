@@ -14,7 +14,7 @@
         }
         public void ParameterMethod(string firstName)
         {
-            Console.WriteLine("hello {0}",firstName);
+            Console.WriteLine("Parameter passed as a String {0}",firstName);
         }
         public float ParameterReturnMethod(float var1,float var2)
         {
@@ -24,7 +24,7 @@
         }
         public static void StaticMethod()
         {
-            Console.WriteLine("Static method");
+            Console.WriteLine("This is Static method");
         }
         static void Main(string[] args)
         {
