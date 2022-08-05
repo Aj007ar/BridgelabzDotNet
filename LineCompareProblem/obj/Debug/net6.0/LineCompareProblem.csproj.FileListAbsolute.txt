@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\bin\Debug\net6.0\LineCompareProblem.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\bin\Debug\net6.0\LineCompareProblem.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\bin\Debug\net6.0\LineCompareProblem.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\bin\Debug\net6.0\LineCompareProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\bin\Debug\net6.0\LineCompareProblem.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\refint\LineCompareProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\LineCompareProblem.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\LineCompareProblem\obj\Debug\net6.0\ref\LineCompareProblem.dll
