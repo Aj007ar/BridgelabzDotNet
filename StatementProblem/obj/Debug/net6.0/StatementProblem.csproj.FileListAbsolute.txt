@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\bin\Debug\net6.0\StatementProblem.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\bin\Debug\net6.0\StatementProblem.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\bin\Debug\net6.0\StatementProblem.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\bin\Debug\net6.0\StatementProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\bin\Debug\net6.0\StatementProblem.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\refint\StatementProblem.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\StatementProblem.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\StatementProblem\obj\Debug\net6.0\ref\StatementProblem.dll
